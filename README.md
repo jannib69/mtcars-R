@@ -1,0 +1,1 @@
+Ta projekt preučuje vpliv teže vozila (wt) in moči motorja (hp) na učinkovitost porabe goriva (mpg) z uporabo linearne regresije. Analiza temelji na mtcars podatkovnem naboru, ki je del R knjižnice datasets.
